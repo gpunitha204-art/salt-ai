@@ -1,0 +1,8 @@
+{
+  "name": "Salt AI - Universal Sign Language Bridge",
+  "description": "A real-time accessibility application that converts sign language to speech and speech to visual sign descriptions using Gemini Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
