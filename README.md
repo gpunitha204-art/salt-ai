@@ -1,0 +1,2 @@
+# salt-ai
+my project
